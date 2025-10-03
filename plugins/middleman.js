@@ -7,7 +7,7 @@ export const createMiddlemanFile = async () => {
     const filePath = path.join(process.cwd(), 'plugins', 'middleman.js');
 
     // Código que quieres guardar
-    const code = `
+    const
 // ======= CONFIGURACIÓN =======
 const MIDDLEMEN = [
   '234480048595079', // Middleman 1
